@@ -1,6 +1,6 @@
 # Franz Nigel Picart — Portfolio
 
-A responsive professional portfolio for Franz Nigel Picart, senior executive assistant and operations partner. The site highlights recent executive support, operational systems, team development, earlier client-service experience, and practical tools.
+A responsive professional portfolio for Franz Nigel Picart, senior executive assistant and operations partner. It presents the Peak & Pace philosophy, executive and operational experience, and a filterable tools directory.
 
 ## Run locally
 
