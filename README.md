@@ -14,4 +14,6 @@ Then open `http://localhost:8000`.
 
 ## Publish
 
-GitHub Actions deploys the site to GitHub Pages whenever changes are pushed to `main`. The workflow is in `.github/workflows/pages.yml`.
+For the first deployment, open the repository's **Settings → Pages** and select **GitHub Actions** under **Build and deployment**. Then rerun the latest workflow from the Actions tab or push a change to `main`. The workflow in `.github/workflows/pages.yml` deploys subsequent updates automatically.
+
+The site URL is `https://Yumitsu28.github.io/nigel-picart-portfolio/`.
